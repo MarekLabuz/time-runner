@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="592px" height="302px" viewBox="-0.5 -0.5 592 302">
+  <defs/>
+  <g>
+    <rect x="1" y="180" width="260" height="40" rx="6" ry="6" fill="none" stroke="#ffffff" stroke-width="3" pointer-events="none"/>
+    <g transform="translate(90.5,186.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="80" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 24px; font-family: Verdana; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 80px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">SPACE</div>
+          </div>
+        </foreignObject>
+        <text x="40" y="25" fill="#FFFFFF" text-anchor="middle" font-size="24px" font-family="Verdana">SPACE</text>
+      </switch>
+    </g>
+    <rect x="361" y="130" width="40" height="40" rx="6" ry="6" fill="none" stroke="#ffffff" stroke-width="3" pointer-events="none"/>
+    <g transform="translate(367.5,134.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="27" height="31" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 28px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <span style="font-size: 27px">
+                <font face="Verdana">←</font>
+              </span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="14" y="29" fill="#FFFFFF" text-anchor="middle" font-size="27px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <rect x="421" y="130" width="40" height="40" rx="6" ry="6" fill="none" stroke="#ffffff" stroke-width="3" pointer-events="none"/>
+    <g transform="translate(431.5,134.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="18" height="31" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 18px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <span style="font-size: 27px">
+                <font face="Verdana">↑</font>
+              </span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="9" y="29" fill="#FFFFFF" text-anchor="middle" font-size="27px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <rect x="481" y="130" width="40" height="40" rx="6" ry="6" fill="none" stroke="#ffffff" stroke-width="3" transform="rotate(-180,501,150)" pointer-events="none"/>
+    <g transform="translate(487.5,134.5)rotate(-180,13.5,15.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="27" height="31" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 28px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <font face="Verdana" style="font-size: 27px">←</font>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="14" y="29" fill="#FFFFFF" text-anchor="middle" font-size="27px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path d="M 381 220 L 381 180" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(307.5,232.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="18" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">HOLD to go left</div>
+          </div>
+        </foreignObject>
+        <text x="59" y="18" fill="#FFFFFF" text-anchor="middle" font-size="17px" font-family="Helvetica">HOLD to go left</text>
+      </switch>
+    </g>
+    <path d="M 500.5 220 L 500.5 180" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(456.5,232.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="128" height="18" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">HOLD to go right</div>
+          </div>
+        </foreignObject>
+        <text x="64" y="18" fill="#FFFFFF" text-anchor="middle" font-size="17px" font-family="Helvetica">HOLD to go right</text>
+      </switch>
+    </g>
+    <path d="M 440.5 120 L 440.5 80" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(390.5,52.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="18" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">CLICK to jump</div>
+          </div>
+        </foreignObject>
+        <text x="56" y="18" fill="#FFFFFF" text-anchor="middle" font-size="17px" font-family="Helvetica">CLICK to jump</text>
+      </switch>
+    </g>
+    <path d="M 130.5 270 L 130.5 230" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(41.5,282.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="178" height="18" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">HOLD to turn back time</div>
+          </div>
+        </foreignObject>
+        <text x="89" y="18" fill="#FFFFFF" text-anchor="middle" font-size="17px" font-family="Helvetica">HOLD to turn back time</text>
+      </switch>
+    </g>
+    <rect x="111" y="80" width="40" height="40" rx="6" ry="6" fill="none" stroke="#ffffff" stroke-width="3" pointer-events="none"/>
+    <g transform="translate(123.5,86.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="14" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 24px; font-family: Verdana; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; width: 14px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              <font style="font-size: 24px">F</font>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="7" y="25" fill="#FFFFFF" text-anchor="middle" font-size="24px" font-family="Verdana">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <g transform="translate(51.5,2.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="158" height="18" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">CLICK to freeze time</div>
+          </div>
+        </foreignObject>
+        <text x="79" y="18" fill="#FFFFFF" text-anchor="middle" font-size="17px" font-family="Helvetica">CLICK to freeze time</text>
+      </switch>
+    </g>
+    <path d="M 131 70 L 131 30" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" pointer-events="none"/>
+  </g>
+</svg>
